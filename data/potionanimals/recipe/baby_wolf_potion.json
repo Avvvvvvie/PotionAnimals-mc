@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:potion",
+    "minecraft:bone_meal"
+  ],
+  "result": {
+    "id": "minecraft:potion",
+    "components": {
+      "minecraft:custom_data": {
+        "potionanimal": 3
+      }
+    }
+  }
+}

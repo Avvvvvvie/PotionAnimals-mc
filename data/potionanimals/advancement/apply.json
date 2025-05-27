@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "vehicle": {
+            "nbt": "{Tags:[potionanimals]}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "potionanimals:movement/apply"
+  }
+}

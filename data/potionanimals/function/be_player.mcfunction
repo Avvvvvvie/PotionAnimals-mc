@@ -1,0 +1,1 @@
+execute on vehicle if entity @s[tag=potionanimals] run kill @s
